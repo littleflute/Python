@@ -1,0 +1,13 @@
+Personal Author: Mitchell, Ryan,
+Title All: Web scraping with Python : collecting data from the modern web / Ryan Mitchell. Collecting data from the modern web
+Author: Mitchell, Ryan,
+Local Call Number: 005.133 PYTHON
+ISBN: 9781491910290
+Edition: First edition.
+Physical Description: xiii, 238 pages : illustrations, 24 cm
+Contents: Part I. Building scrapers: Your first web scraper -- Advanced HTML parsing -- Starting to crawl -- Using APIs -- Storing data -- Reading documents. Part II. Advanced scraping: Cleaning your dirty data -- Reading and writing natural languages -- Crawling through forms and logins -- Scraping JavaScript -- Image processing and text recognition -- Avoiding scraping traps -- Testing your website with scrapers -- Testing your website with scrapers -- Scraping remotely.
+Subject Term:
+Python (Computer program language)
+Data mining.
+Automatic data collection systems.
+Holds: 1
